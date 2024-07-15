@@ -1,8 +1,6 @@
 <img src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="coding" />
-<h1 align="center">Hi 👋, I'm Piranaavei Berem</h1>
+<h4 align="center">Hi 👋, I'm Piranaavei Berem</h4>
 <h3 align="center">A passionate frontend developer.</h3>
-
-
 
 
 - 🔭 I’m currently working on [romodo](https://github.com/Romodo-by-BitAlchemy)
