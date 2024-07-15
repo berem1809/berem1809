@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Piranaavei Berem</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-<img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/3052691/screenshots/6178918/media/142a387e9ea9c079bc72e3a62fd3fc48.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berem1809&label=Profile%20views&color=0e75b6&style=flat" alt="berem1809" /> </p>
 
