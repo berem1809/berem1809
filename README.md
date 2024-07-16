@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="600px" alt="coding" />
+<img src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="300px" alt="coding" />
 <h1 align="center">Hi 👋, I'm Piranaavei Berem</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
