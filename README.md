@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer.</h3>
 
 
-- 🔭 I’m currently working on [e-commerce](https://github.com/berem1809/E-Commerce-Website-Frontend)
+- 🔭 I’m currently working on [e-commerce](https://github.com/berem1809/E-Commerce)
 
 - 🌱 I’m currently learning **React**
 
