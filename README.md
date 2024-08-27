@@ -1,6 +1,6 @@
 <img src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="200px" alt="coding" />
 <h1 align="center">Hi 👋, I'm Piranaavei Beremkumar</h1>
-<h3 align="center">A passionate Full Stack developer.</h3>
+<h3 align="center">A passionate Full Stack Developer.</h3>
 
 
 - 🔭 I’m currently working on [e-commerce](https://github.com/berem1809/E-Commerce)
