@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **piranaberem14@gmail.com**
 
