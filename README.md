@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [e-commerce](https://github.com/berem1809/E-Commerce)
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **MERN Stack**
 
