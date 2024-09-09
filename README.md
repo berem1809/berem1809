@@ -21,24 +21,31 @@
 </p>
 
 ---
-
-### GitHub Stats:
+### GitHub Stats with Animation:
 
 <div align="center">
-  <!-- GitHub Stats with Animation -->
-  <img src="https://github-readme-stats.vercel.app/api?username=berem1809&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&hide_title=true" width="400px" />
+  <!-- GitHub Stats with Animation (Custom SVG) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=berem1809&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&hide_title=true" width="400px" alt="GitHub Stats" />
   
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berem1809&theme=dark&hide_border=true" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berem1809&theme=dark&hide_border=true" width="400px" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <!-- Animation SVG (Simple CSS-based Animation for Stats Box) -->
+  <img src="https://svgshare.com/i/pE5.svg" alt="Animated GitHub Stats" width="400px" />
 </div>
 
 ---
 
-### Language Chart:
+### Circular Language Chart (with subtle animation):
 
 <div align="center">
-  <!-- Circular language chart -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berem1809&langs_count=8&theme=dark&layout=compact&hide_border=true" width="400px" />
+  <!-- Circular Language Chart -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berem1809&langs_count=8&theme=dark&layout=compact&hide_border=true" width="400px" alt="Top Languages" />
+
+  <!-- Add simple GIF animation -->
+  <img src="https://i.pinimg.com/originals/26/82/d2/2682d28349939f2c2b249a6c32de03e8.gif" alt="Languages Animation" width="100px" />
 </div>
 
 <h3 align="left">Languages & Tools:</h3>
