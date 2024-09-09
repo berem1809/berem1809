@@ -21,13 +21,10 @@
 </p>
 
 ---
-### GitHub Stats with Animation:
+### GitHub Stats :
 
 <div align="center">
-  <!-- GitHub Stats with Animation (Custom SVG) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=berem1809&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&hide_title=true" width="400px" alt="GitHub Stats" />
-  
-  <!-- GitHub Streak Stats -->
+    <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=berem1809&theme=dark&hide_border=true" width="400px" alt="GitHub Streak Stats" />
 </div>
 
@@ -38,7 +35,7 @@
 
 ---
 
-### Circular Language Chart (with subtle animation):
+### Language Chart:
 
 <div align="center">
   <!-- Circular Language Chart -->
