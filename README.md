@@ -34,7 +34,7 @@
 
 ---
 
-### Circular Language Chart:
+### Language Chart:
 
 <div align="center">
   <!-- Circular language chart -->
