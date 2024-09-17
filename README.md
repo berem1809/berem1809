@@ -7,7 +7,7 @@
 <h1 align="center">Hello 👋, I'm Piranaavei Beremkumar</h1>
 <h3 align="center">A passionate Full Stack Developer.</h3>
 
-- 🔭 I’m currently working on [e-commerce](https://github.com/berem1809/E-Commerce)
+
 
 - 🌱 I’m currently learning **NodeJS**
 
