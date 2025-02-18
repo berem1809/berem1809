@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **NodeJS**
+
 
 - 💬 Ask me about **MERN Stack**
 
