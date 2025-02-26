@@ -12,7 +12,7 @@
 
 
 - 💬 Ask me about **MERN Stack**
-
+- 🔭 I’m currently working on [BeautiQ](https://github.com/BeautiQ-Web-Development)
 - 📫 How to reach me **piranaberem14@gmail.com**
 
 ---
