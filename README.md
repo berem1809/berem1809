@@ -25,34 +25,7 @@
 </p>
 
 
-# 💻 Tech Stack:
-###
-«div align="left"›
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" / >
-<img width="12" /›
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-<img width="12"
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-<img width="12" /›
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expressjs/expressjs-original.svg" height="40" alt="nextjs logo" /›
-<img width="12"
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electronjs/electronjs-original.svg" height="40" alt="storybook logo" />
-<img
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-<img
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="nestjs logo" />
-<img
-width="12" /›
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="40" alt="jest logo" />
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="40" alt="jest logo" />
-</div>
-###
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=berem1809&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
