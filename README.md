@@ -1,35 +1,31 @@
+## Hi there! 👋
 
+I'm Piranaavei Beremkumar, a Full Stack Developer exploring the MERN stack. I'm passionate about creating efficient, user-friendly web applications that solve real-world problems.
 
----
-[![](https://visitcount.itsvg.in/api?id=berem1809&icon=0&color=0)](https://visitcount.itsvg.in)
-<img src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="200px" alt="coding" />
+## About Me
 
-<h1 align="center">Hello 👋, I'm Piranaavei Beremkumar</h1>
-<h3 align="center">A passionate Full Stack Developer.</h3>
+Based in Colombo, I am currently a student at the University of Moratuwa. I enjoy tackling challenges in web development and am constantly exploring new technologies and frameworks to enhance my skills.
 
-
-
-
-
-- 💬 Ask me about **MERN Stack**
-- 🔭 I’m currently working on [BeautiQ](https://github.com/BeautiQ-Web-Development)
-- 📫 How to reach me **piranaberem14@gmail.com**
-
----
-
-### Connect with me:
-<p align="left">
-<a href="https://dev.to/@pranav_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@pranav_09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/piranaavei beremkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piranaavei beremkumar" height="30" width="40" /></a>
-<a href="https://medium.com/@piranaavei beremkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@piranaavei beremkumar" height="30" width="40" /></a>
-</p>
+## Skills & Technologies
 
 
 
+## Top Projects
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=berem1809&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+- [Full-Stack-Ecommerce-Website](https://github.com/berem1809/Full-Stack-Ecommerce-Website)\n  A complete e-commerce solution built with the MERN stack.  \n  Stars: 0, Language: JavaScript\n  \n- [Admin-Frontend](https://github.com/berem1809/Admin-Frontend)\n  Frontend application for admin functionalities.  \n  Stars: 0, Language: JavaScript\n  \n- [Chat-Application](https://github.com/berem1809/Chat-Application)\n  A web-based chat application using React.js and Firebase.  \n  Stars: 0, Language: JavaScript\n  \n- [attendance-system](https://github.com/berem1809/attendance-system)\n  An attendance tracking system for educational institutes.  \n  Stars: 0, Language: JavaScript
 
+## GitHub Stats
 
+🌟 **Public Repositories:** 10  \n👥 **Followers:** 2  \n👤 **Following:** 5  \n![GitHub Stats](https://github-readme-stats.vercel.app/api?username=berem1809&show_icons=true&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Recent Activity
+
+- Modified the Service Provider Dashboard in [BeautiQ-Web-Development/Backend](https://github.com/BeautiQ-Web-Development/Backend)  \n- Opened a Pull Request for the Service Provider Dashboard in [BeautiQ-Web-Development/Frontend](https://github.com/BeautiQ-Web-Development/Frontend)  \n- Pushed updates to the [attendance-system](https://github.com/berem1809/attendance-system) repository  \n- Contributed to discussions in the [Chat-Application](https://github.com/berem1809/Chat-Application)
+
+## Latest Blog Posts
+
+- [My Journey with MERN Stack](https://medium.com/@piranaaberem1809/my-journey-with-mern-stack)  \n- [Building User-Friendly Interfaces](https://medium.com/@piranaaberem1809/building-user-friendly-interfaces)  \n- [Understanding REST APIs](https://medium.com/@piranaaberem1809/understanding-rest-apis)
+
+## Connect with Me
+
+{"linkedin":"https://www.linkedin.com/in/piranaavei-beremkumar","generic":"https://medium.com/@piranaaberem1809"}
