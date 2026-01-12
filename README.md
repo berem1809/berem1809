@@ -43,14 +43,7 @@
 🔹 Features **user registration, appointment booking, service management, reviews, and payment processing**.  
 🔹 Includes **customer, service provider, and admin dashboards** for seamless management.  
 
----
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berem1809&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berem1809&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" /> -->
-</p>
 
 
 
