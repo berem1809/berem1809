@@ -38,6 +38,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/-Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
@@ -45,10 +46,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,electron,java,spring,mongodb,mysql,aws,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,electron,java,spring,python,mongodb,mysql,aws,docker,kubernetes,git,github" />
 </p>
 
 ---
